@@ -1,0 +1,27 @@
+.My-img-cont {
+  background: linear-gradient(
+      rgba(249, 79, 255, 0.055),
+      rgba(249, 79, 255, 0.055)
+    ),
+    url(./myPic.png);
+
+  border-radius: 5px;
+  border: 2px solid rgb(81, 84, 233);
+  background-size: cover;
+}
+
+.My-img-cont.HoverImage {
+  background: linear-gradient(#2b78eb00, #2b78eb00), url(./myPic.png);
+  background-size: cover;
+}
+
+.myImage__mobile {
+  width: 295px;
+  width: 92%;
+  height: 430px;
+  margin: 5rem 0 0;
+  background: url(./myPic.png);
+  border-radius: 5px;
+  border: 2px solid rgb(81, 84, 233);
+  background-size: cover;
+}
