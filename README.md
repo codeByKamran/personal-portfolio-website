@@ -2,14 +2,13 @@
 
 ## Technologies Used:
 1) JavaScript(ES6) HTML5/CSS3(SASS)
-2) ReactJs(Router)
-3) Google Firebase as Realtime database for coaching data
+2) ReactJs(Router), Material UI Components
 3) Font Awesome Fonts
-7) ...
+...
 
 
 ## My Portfolio Link:
-https://azharzaman.com/
+https://kamran-personal-portfolio.netlify.app
 
 ---
 ## Your Contribution would be a great favour! Thanks for being here. Take Care
