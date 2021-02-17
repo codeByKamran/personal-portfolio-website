@@ -34,7 +34,7 @@ let ContactSection = () => {
         </a>
         <a
           className="contactBtns contactBtn2"
-          href="https://api.whatsapp.com/send?phone=923170460466&text=&source=&data=&app_absent="
+          href="https://api.whatsapp.com/send?phone=923107538437&text=&source=&data=&app_absent="
           target="_blank"
         >
           Whatsapp

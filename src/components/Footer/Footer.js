@@ -14,7 +14,7 @@ let Footer = () => {
       <h1 className="footerTag">Design & Developed by Kamran Ashraf</h1>
       <h1 className="contributionText">
         Contribution would be a great favour |
-        <a href="https://github.com/itsCodingGeek/Kami-portfolio-website.git">
+        <a href="https://github.com/codeByKamran/personal-portfolio-website.git">
           Github
         </a>{" "}
         <FontAwesomeIcon className="gitHub__icon" icon={faGithub} />{" "}

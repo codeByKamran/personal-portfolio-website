@@ -62,16 +62,9 @@ let ProjectsSection = () => {
             tagline="Virtual Assistant Application"
             logoSrc={logos.CVALogo}
             pendingProjectLogoClass="pendingProject__vaLogo"
-            githubLink="https://github.com/itsCodingGeek/Comany-Virtual-Assistant"
-            liveLink="https://virtual-assistant-application.netlify.app/"
+            githubLink="https://github.com/codeByKamran/Company-virtual-assistant.git"
+            liveLink="https://company-virtual-assis.netlify.app/"
             taglineSepcificClass="cvaTagline"
-          />
-          <PendingProject
-            tagline="Blood Donation Marketplace"
-            logoSrc={logos.BDLogo}
-            pendingProjectLogoClass="pendingProject__bdLogo"
-            githubLink="https://github.com/itsCodingGeek/Blood_Donation_Application.git"
-            liveLink="https://azhar-blooddonation.netlify.app/"
           />
         </div>
 
@@ -80,8 +73,8 @@ let ProjectsSection = () => {
             reactProjectSpecialClass="covid__projectContainer"
             reactProjectLogoSrc={logos.TrackerLogo}
             reactProjectLogoClass="covidLogo"
-            project__githubLink="https://github.com/itsCodingGeek/Covid-tacker-portfolio"
-            projectLink="https://azhar-covidtracker.ga/"
+            project__githubLink="https://github.com/codeByKamran/COVID-19-Tracker.git"
+            projectLink="https://kamran-covid19tracker.netlify.app"
             projectDescription="Built a fully functional COVID-19 Tracker with React using latest web  technologies like Material UI, React leaflet, ChartJs as main UI components. This specific Covid tracker finds its realtime database from 'disease.sh' using Live API calls. Also it uses Firebase as a database and Authentication functionalities."
             tech1="ReactJs"
             tech2="Material UI"
@@ -95,8 +88,8 @@ let ProjectsSection = () => {
             reactProjectSpecialClass="covid__projectContainer"
             reactProjectLogoSrc={logos.AmazonLogo}
             reactProjectLogoClass="amazonLogo"
-            project__githubLink="https://github.com/itsCodingGeek/Full-Stack-Amazon-Clone.git"
-            projectLink="https://azhar-amazonclone.ga/"
+            project__githubLink="https://github.com/codeByKamran/Fullstack-Amazon-Demo.git"
+            projectLink="https://kamran-amazondemo.netlify.app"
             projectDescription="I have recently completed Amazon Demo Clone build with React, with full eCommerce functionalities like add & remove to Cart, add address, Checkout Payment via Stripe, add products, add categories and much more. This Amazon clone is using Firebase firestore as realtime Database to store user details, addresses, order stats etc."
             tech1="ReactJs"
             tech2="Stripe"
@@ -114,8 +107,8 @@ let ProjectsSection = () => {
             reactProjectLogoSrc={logos.GoogleLogo}
             reactProjectLogoClass="googleLogo"
             logoRightText="Clone"
-            project__githubLink="https://github.com/itsCodingGeek/Google-Clone_Portfolio"
-            projectLink="https://azhar-googleclone.ga/"
+            project__githubLink="https://github.com/codeByKamran/Google-portfolio-clone.git"
+            projectLink="https://google-portfolio-clone.netlify.app"
             projectDescription="Built a fully functional Google Clone with React finding its real-time database from the original Google server. This clone is full of functinalites including React Router, React Hooks and React Context API. Material UI is serving as a design library. This clone is super responsive fit for every device size."
             tech1="ReactJs"
             tech2="Material UI"
@@ -129,8 +122,8 @@ let ProjectsSection = () => {
             reactProjectLogoSrc={logos.NetflixLogo}
             reactProjectLogoClass="netflixLogo"
             logoRightText="Clone"
-            project__githubLink="https://github.com/itsCodingGeek/Netflix-Clone_Portfolio.git"
-            projectLink="https://azhar-netflixclone.ga/"
+            project__githubLink="https://github.com/codeByKamran/Netflix-portfolio-clone.git"
+            projectLink="https://netflix-portfolio-clone.netlify.app"
             cloneText__specific="netflixText"
             projectDescription="Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies and more on thousands of internet-connected devices. I decided to build it with react and used tmdb as realtime movie database. It fetch movies from tmdb and trailers when clicked from youtube with a special 'youtube-trailer' functionality. "
             tech1="ReactJs"
@@ -146,7 +139,7 @@ let ProjectsSection = () => {
             reactProjectSpecialClass="persoanl__projectContainer"
             reactProjectLogoSrc={logos.MyLogo}
             reactProjectLogoClass="myLogo"
-            project__githubLink="https://github.com/drcraze/Personal-Website-V1.git"
+            project__githubLink="https://github.com/codeByKamran/personal-portfolio-website.git"
             projectDescription="This website is built with React with its descent UI. I have used CSS(SASS) for styling purposes. Making this website simple but expressive was my first priority. There is always room for improvement. Your contribution would be a great favour, if you want to. Link to Github Repo is attached."
             tech1="ReactJs"
             tech2="CSS(SASS)"
