@@ -63,7 +63,7 @@ let ProjectsSection = () => {
             logoSrc={logos.CVALogo}
             pendingProjectLogoClass="pendingProject__vaLogo"
             githubLink="https://github.com/codeByKamran/Company-virtual-assistant.git"
-            liveLink="https://company-virtual-assis.netlify.app/"
+            liveLink="https://virtual-assistant-app.netlify.app/"
             taglineSepcificClass="cvaTagline"
           />
         </div>
