@@ -54,8 +54,8 @@
 .anim__logo {
   width: 96px;
   position: absolute;
-  top: 30%;
-  left: 25.75%;
+  top: 29%;
+  left: 27.25%;
   opacity: 0;
   animation: a2 3.5s linear forwards;
 }
